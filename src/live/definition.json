@@ -349,7 +349,7 @@
         "viz_tb8h6kWl": {
             "type": "viz.text",
             "options": {
-                "content": "ETHLondon UK",
+                "content": "ETHLondonUK",
                 "fontSize": 26
             }
         },
