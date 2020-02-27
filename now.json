@@ -1,0 +1,7 @@
+{
+  "env": {
+    "SPLUNKD_URL": "https://api-slk5gjwsdf453we.ost.com",
+    "SPLUNKD_USER": "admin",
+    "SPLUNKD_PASSWORD": "pleasedonetchangeme9981"
+  }
+}

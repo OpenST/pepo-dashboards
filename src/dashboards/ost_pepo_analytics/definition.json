@@ -1,0 +1,988 @@
+{
+  "layout": {
+    "type": "absolute",
+    "options": {
+      "width": 1920,
+      "height": 1080,
+      "display": "auto-scale",
+      "backgroundColor": "transparent",
+      "backgroundImage": {
+        "src": "/assets/59398f0500ceb2b85a08_5e48b18428221b35a07fd013.png",
+        "x": 0,
+        "y": 0,
+        "sizeType": "contain"
+      }
+    },
+    "structure": [
+      {
+        "item": "viz_awPGyLg8",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 191,
+            "y": 54
+          },
+          "to": {
+            "x": 745,
+            "y": 53
+          }
+        }
+      },
+      {
+        "item": "viz_SQ14bgIG",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 1153,
+            "y": 50
+          },
+          "to": {
+            "x": 1707,
+            "y": 49
+          }
+        }
+      },
+      {
+        "item": "viz_DqkTWy2f",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 149,
+            "y": 815
+          },
+          "to": {
+            "x": 149,
+            "y": 730
+          }
+        }
+      },
+      {
+        "item": "viz_vUnn4h4s",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 268,
+            "y": 817
+          },
+          "to": {
+            "x": 268,
+            "y": 732
+          }
+        }
+      },
+      {
+        "item": "viz_5VnhzrPp",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 98,
+            "y": 839
+          },
+          "to": {
+            "x": 135,
+            "y": 861
+          }
+        }
+      },
+      {
+        "item": "viz_vZpOqdzx",
+        "type": "line",
+        "position": {
+          "from": {
+            "x": 290,
+            "y": 860
+          },
+          "to": {
+            "x": 330,
+            "y": 840
+          }
+        }
+      },
+      {
+        "item": "viz_gOohvFFZ",
+        "type": "block",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        }
+      },
+      {
+        "item": "viz_E6BHU9mA",
+        "type": "block",
+        "position": {
+          "x": 140,
+          "y": 800,
+          "w": 150,
+          "h": 150
+        }
+      },
+      {
+        "item": "viz_QoyRlzLY",
+        "type": "block",
+        "position": {
+          "x": 400,
+          "y": 220,
+          "w": 1110,
+          "h": 760
+        }
+      },
+      {
+        "item": "viz_zZyjzGtS",
+        "type": "block",
+        "position": {
+          "x": 1060,
+          "y": 260,
+          "w": 300,
+          "h": 230
+        }
+      },
+      {
+        "item": "viz_OeTyZh8h",
+        "type": "block",
+        "position": {
+          "x": 850,
+          "y": 20,
+          "w": 210,
+          "h": 180
+        }
+      },
+      {
+        "item": "viz_am1ulwD8",
+        "type": "block",
+        "position": {
+          "x": 10,
+          "y": 10,
+          "w": 150,
+          "h": 130
+        }
+      },
+      {
+        "item": "viz_5dSIKXjO",
+        "type": "block",
+        "position": {
+          "x": 1740,
+          "y": 10,
+          "w": 170,
+          "h": 150
+        }
+      },
+      {
+        "item": "viz_qKjasqy2",
+        "type": "block",
+        "position": {
+          "x": 1760,
+          "y": 20,
+          "w": 110,
+          "h": 40
+        }
+      },
+      {
+        "item": "viz_hC2CILfq",
+        "type": "block",
+        "position": {
+          "x": 0,
+          "y": 880,
+          "w": 1920,
+          "h": 210
+        }
+      },
+      {
+        "item": "viz_cU6rynm2",
+        "type": "block",
+        "position": {
+          "x": 860,
+          "y": 1040,
+          "w": 300,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_Vl6piXTx",
+        "type": "block",
+        "position": {
+          "x": 40,
+          "y": 720,
+          "w": 360,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_bw5b0utw",
+        "type": "block",
+        "position": {
+          "x": 150,
+          "y": 510,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_CKVMeqpO",
+        "type": "block",
+        "position": {
+          "x": 280,
+          "y": 320,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_LKCeNLwg",
+        "type": "block",
+        "position": {
+          "x": 1490,
+          "y": 720,
+          "w": 320,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_EomOrDto",
+        "type": "block",
+        "position": {
+          "x": 1420,
+          "y": 510,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_GPCsZ9GQ",
+        "type": "block",
+        "position": {
+          "x": 1300,
+          "y": 320,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_EdiMCCHX",
+        "type": "block",
+        "position": {
+          "x": 320,
+          "y": 270,
+          "w": 300,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_tCaffelh",
+        "type": "block",
+        "position": {
+          "x": 150,
+          "y": 510,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_Ci6nNqxd",
+        "type": "block",
+        "position": {
+          "x": 280,
+          "y": 320,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_Ij386m6a",
+        "type": "block",
+        "position": {
+          "x": 140,
+          "y": 460,
+          "w": 310,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_S77PQ34g",
+        "type": "block",
+        "position": {
+          "x": 1190,
+          "y": 50,
+          "w": 490,
+          "h": 150
+        }
+      },
+      {
+        "item": "viz_R6FJegUW",
+        "type": "block",
+        "position": {
+          "x": 1300,
+          "y": 0,
+          "w": 320,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_immRD2rJ",
+        "type": "block",
+        "position": {
+          "x": 1340,
+          "y": 270,
+          "w": 210,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_3XMc1SHN",
+        "type": "block",
+        "position": {
+          "x": 580,
+          "y": 290,
+          "w": 190,
+          "h": 170
+        }
+      },
+      {
+        "item": "viz_oT7jFSv8",
+        "type": "block",
+        "position": {
+          "x": 1300,
+          "y": 320,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_HROL22v4",
+        "type": "block",
+        "position": {
+          "x": 230,
+          "y": 50,
+          "w": 470,
+          "h": 150
+        }
+      },
+      {
+        "item": "viz_Gk8ZawNt",
+        "type": "block",
+        "position": {
+          "x": 330,
+          "y": 0,
+          "w": 300,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_XO40GhKt",
+        "type": "block",
+        "position": {
+          "x": 1470,
+          "y": 460,
+          "w": 210,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_r5ju7iPL",
+        "type": "block",
+        "position": {
+          "x": 1420,
+          "y": 510,
+          "w": 290,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_lbKXD12q",
+        "type": "block",
+        "position": {
+          "x": 170,
+          "y": 880,
+          "w": 150,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_rnoU5CDQ",
+        "type": "block",
+        "position": {
+          "x": 150,
+          "y": 730,
+          "w": 120,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_EsK77a0j",
+        "type": "block",
+        "position": {
+          "x": 1540,
+          "y": 670,
+          "w": 220,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_KjNZ6l6q",
+        "type": "block",
+        "position": {
+          "x": 1460,
+          "y": 680,
+          "w": 440,
+          "h": 210
+        }
+      },
+      {
+        "item": "viz_qyrfz35K",
+        "type": "block",
+        "position": {
+          "x": 40,
+          "y": 730,
+          "w": 110,
+          "h": 110
+        }
+      },
+      {
+        "item": "viz_ot3SG11m",
+        "type": "block",
+        "position": {
+          "x": 270,
+          "y": 720,
+          "w": 130,
+          "h": 130
+        }
+      },
+      {
+        "item": "viz_jRZEYOIX",
+        "type": "block",
+        "position": {
+          "x": 70,
+          "y": 670,
+          "w": 300,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_OMzWSZar",
+        "type": "block",
+        "position": {
+          "x": 300,
+          "y": 710,
+          "w": 70,
+          "h": 40
+        }
+      },
+      {
+        "item": "viz_jX0SqAlD",
+        "type": "block",
+        "position": {
+          "x": 80,
+          "y": 710,
+          "w": 100,
+          "h": 50
+        }
+      },
+      {
+        "item": "viz_RFgzQw5n",
+        "type": "block",
+        "position": {
+          "x": 170,
+          "y": 710,
+          "w": 70,
+          "h": 40
+        }
+      }
+    ]
+  },
+  "description": "",
+  "title": "OST Pepo Analytics during ETHDenver",
+  "visualizations": {
+    "viz_QoyRlzLY": {
+      "type": "viz.img",
+      "options": {
+        "preserveAspectRatio": true,
+        "src": "/assets/6ec2b3378be6e37bebe6_5e4858b528221b42ff13b442.png"
+      }
+    },
+    "viz_OeTyZh8h": {
+      "type": "viz.img",
+      "options": {
+        "preserveAspectRatio": true,
+        "src": "/assets/f4caeb9624572472b09d_5e4858da28221b42ff13b443.png"
+      }
+    },
+    "viz_am1ulwD8": {
+      "type": "viz.singlevalueicon",
+      "options": {
+        "showValue": false,
+        "icon": "/assets/8abd944fee1917b8f845_5e4570a428221b741674a5ff.svg"
+      }
+    },
+    "viz_5dSIKXjO": {
+      "type": "viz.singlevalueicon",
+      "options": {
+        "showValue": false,
+        "icon": "/assets/cf7399e9262d7d745f1a_5e44958928221b741674a5f3.svg"
+      }
+    },
+    "viz_qKjasqy2": {
+      "type": "viz.text",
+      "options": {
+        "content": "Built by:"
+      }
+    },
+    "viz_hC2CILfq": {
+      "type": "viz.column",
+      "options": {
+        "backgroundColor": "transparent",
+        "foregroundColor": "#ffffff",
+        "fontColor": "#666666",
+        "axisTitleX.visibility": "collapsed",
+        "axisTitleY.visibility": "collapsed",
+        "seriesColors": "[0xcccccc]",
+        "legendPlacement": "none"
+      },
+      "dataSources": {
+        "primary": "ds_grK4RAGT"
+      }
+    },
+    "viz_cU6rynm2": {
+      "type": "viz.text",
+      "options": {
+        "content": "OST Live Transaction Volume",
+        "color": "#666",
+        "fontFamily": "Splunk Platform Mono",
+        "fontSize": 18
+      }
+    },
+    "viz_Vl6piXTx": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_bw5b0utw": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_CKVMeqpO": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_LKCeNLwg": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_EomOrDto": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_GPCsZ9GQ": {
+      "type": "viz.rectangle",
+      "options": {
+        "stroke": "#cccccc",
+        "fill": "#cccccc",
+        "fillOpacity": 0.2,
+        "strokeOpacity": 0.1
+      }
+    },
+    "viz_EdiMCCHX": {
+      "type": "viz.text",
+      "options": {
+        "content": "Pepo Token Transfers (7d)",
+        "fontSize": 22
+      }
+    },
+    "viz_tCaffelh": {
+      "type": "viz.singlevalue",
+      "options": {
+        "numberPrecision": 0
+      },
+      "dataSources": {
+        "primary": "ds_639P5geP"
+      }
+    },
+    "viz_Ci6nNqxd": {
+      "type": "viz.singlevalue",
+      "options": {
+        "showTrendIndicator": true,
+        "sparklinePosition": "below"
+      },
+      "dataSources": {
+        "primary": "ds_Qmxzkv6P"
+      }
+    },
+    "viz_Ij386m6a": {
+      "type": "viz.text",
+      "options": {
+        "content": "Total Pepo Coin Transferred (7d)",
+        "fontSize": 22
+      }
+    },
+    "viz_S77PQ34g": {
+      "type": "viz.area",
+      "options": {
+        "backgroundColor": "transparent",
+        "foregroundColor": "#cccccc",
+        "fontColor": "#666666",
+        "axisTitleX.visibility": "collapsed",
+        "axisTitleY.visibility": "collapsed",
+        "seriesColors": "[0x666666]",
+        "legend.placement": "none"
+      },
+      "dataSources": {
+        "primary": "ds_uboNkQwe"
+      }
+    },
+    "viz_R6FJegUW": {
+      "type": "viz.text",
+      "options": {
+        "content": "Pepo New User Signups",
+        "color": "#0877a6",
+        "fontSize": 26
+      }
+    },
+    "viz_zZyjzGtS": {
+      "type": "viz.img",
+      "options": {
+        "preserveAspectRatio": true,
+        "src": "/assets/cf62c76579159752398f_5e48b27a28221b35a07fd014.gif"
+      }
+    },
+    "viz_immRD2rJ": {
+      "type": "viz.text",
+      "options": {
+        "content": "Daily Active Users",
+        "fontSize": 22
+      }
+    },
+    "viz_3XMc1SHN": {
+      "type": "viz.img",
+      "options": {
+        "preserveAspectRatio": true,
+        "src": "/assets/a8722ace482e32595cdb_5e48b57328221b35a07fd015.png"
+      }
+    },
+    "viz_oT7jFSv8": {
+      "type": "viz.singlevalue",
+      "options": {},
+      "dataSources": {
+        "primary": "ds_CKv98REG"
+      }
+    },
+    "viz_HROL22v4": {
+      "type": "viz.table",
+      "options": {
+        "backgroundColor": "transparent",
+        "headerBackgroundColor": "transparent",
+        "rowBackgroundColorOdd": "transparent",
+        "rowBackgroundColorEven": "transparent"
+      },
+      "dataSources": {
+        "primary": "ds_nEZujQxt"
+      }
+    },
+    "viz_Gk8ZawNt": {
+      "type": "viz.text",
+      "options": {
+        "content": "Most Recent Txns (live)",
+        "color": "#0877a6"
+      }
+    },
+    "viz_XO40GhKt": {
+      "type": "viz.text",
+      "options": {
+        "content": "Recoveries Initiated",
+        "fontSize": 22
+      }
+    },
+    "viz_r5ju7iPL": {
+      "type": "viz.singlevalue",
+      "options": {},
+      "dataSources": {
+        "primary": "ds_s3hLdIGI_ds_CKv98REG"
+      }
+    },
+    "viz_awPGyLg8": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeWidth": 3,
+        "strokeDasharray": 7,
+        "strokeColor": "#708794",
+        "strokeOpacity": 0.5
+      }
+    },
+    "viz_SQ14bgIG": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeWidth": 3,
+        "strokeDasharray": 7,
+        "strokeColor": "#708794",
+        "strokeOpacity": 0.5
+      }
+    },
+    "viz_lbKXD12q": {
+      "type": "viz.text",
+      "options": {
+        "content": "Savings!",
+        "fontSize": 18
+      }
+    },
+    "viz_rnoU5CDQ": {
+      "type": "viz.singlevalue",
+      "options": {
+        "showTrendIndicator": true,
+        "sparklinePosition": "below",
+        "numberPrecision": 2,
+        "unitPosition": "before",
+        "unit": "$",
+        "backgroundColor": "transparent",
+        "color": "#ffac33"
+      },
+      "dataSources": {
+        "primary": "ds_eTJn89ME_ds_Qmxzkv6P"
+      }
+    },
+    "viz_EsK77a0j": {
+      "type": "viz.text",
+      "options": {
+        "content": "Distint Event Calls (1hr)",
+        "fontSize": 22
+      }
+    },
+    "viz_KjNZ6l6q": {
+      "type": "viz.line",
+      "options": {
+        "fontColor": "#333",
+        "lineDashStyle": "shortDash",
+        "backgroundColor": "transparent",
+        "foregroundColor": "#ffffff",
+        "legend.placement": "right",
+        "axisTitleX.visibility": "collapsed",
+        "axisTitleY.visibility": "collapsed",
+        "legend.labelStyle.overflowMode": "ellipsisEnd"
+      },
+      "dataSources": {
+        "primary": "ds_i3yMFVSW"
+      }
+    },
+    "viz_gOohvFFZ": {
+      "type": "viz.singlevalueicon",
+      "options": {
+        "showValue": false,
+        "icon": "/assets/94e6441f8ab92af1647a_5e48d29828221b35a07fd016.svg",
+        "iconOpacity": 0.02
+      }
+    },
+    "viz_qyrfz35K": {
+      "type": "viz.singlevalue",
+      "options": {
+        "showTrendIndicator": true,
+        "sparklinePosition": "below",
+        "numberPrecision": 2,
+        "unitPosition": "before",
+        "unit": "$",
+        "backgroundColor": "transparent",
+        "color": "#53a051"
+      },
+      "dataSources": {
+        "primary": "ds_qqTNGpRH_ds_eTJn89ME_ds_Qmxzkv6P"
+      }
+    },
+    "viz_ot3SG11m": {
+      "type": "viz.singlevalue",
+      "options": {
+        "showTrendIndicator": true,
+        "sparklinePosition": "below",
+        "numberPrecision": 2,
+        "unitPosition": "before",
+        "unit": "$",
+        "backgroundColor": "transparent",
+        "color": "#ff0000"
+      },
+      "dataSources": {
+        "primary": "ds_FsblCzar_ds_qqTNGpRH_ds_eTJn89ME_ds_Qmxzkv6P"
+      }
+    },
+    "viz_jRZEYOIX": {
+      "type": "viz.text",
+      "options": {
+        "content": "Equivalent Transaction Costs",
+        "fontSize": 22
+      }
+    },
+    "viz_DqkTWy2f": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeColor": "#294e70"
+      }
+    },
+    "viz_vUnn4h4s": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeColor": "#294e70"
+      }
+    },
+    "viz_OMzWSZar": {
+      "type": "viz.text",
+      "options": {
+        "content": "Stripe",
+        "fontFamily": "Splunk Platform Mono",
+        "fontSize": 20,
+        "color": "#0877a6"
+      }
+    },
+    "viz_jX0SqAlD": {
+      "type": "viz.text",
+      "options": {
+        "content": "OST",
+        "fontFamily": "Splunk Platform Mono",
+        "fontSize": 20,
+        "color": "#0877a6"
+      }
+    },
+    "viz_RFgzQw5n": {
+      "type": "viz.text",
+      "options": {
+        "content": "Mainnet",
+        "fontFamily": "Splunk Platform Mono",
+        "fontSize": 20,
+        "color": "#0877a6"
+      }
+    },
+    "viz_E6BHU9mA": {
+      "type": "viz.singlevalue",
+      "options": {
+        "unit": "%",
+        "sparklinePosition": "below",
+        "color": "#53a051"
+      },
+      "dataSources": {
+        "primary": "ds_l2tJ0Gv0"
+      }
+    },
+    "viz_5VnhzrPp": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeColor": "#708794",
+        "strokeOpacity": 0.5,
+        "strokeWidth": 2,
+        "strokeDasharray": 1
+      }
+    },
+    "viz_vZpOqdzx": {
+      "type": "abslayout.line",
+      "options": {
+        "strokeColor": "#708794",
+        "strokeOpacity": 0.5,
+        "strokeWidth": 2,
+        "strokeDasharray": 1
+      }
+    }
+  },
+  "dataSources": {
+    "ds_grK4RAGT": {
+      "type": "ds.cdn",
+      "name": "total_ost_txns",
+      "options": {
+        "uri": "/api/data/2q49h98flmw8"
+      }
+    },
+    "ds_639P5geP": {
+      "type": "ds.cdn",
+      "name": "pepo coin transferred",
+      "options": {
+        "uri": "/api/data/br53xnx0phsw"
+      }
+    },
+    "ds_Qmxzkv6P": {
+      "type": "ds.cdn",
+      "name": "pepo coin transfer count",
+      "options": {
+        "uri": "/api/data/vj5ozrgf1bv8"
+      }
+    },
+    "ds_uboNkQwe": {
+      "type": "ds.cdn",
+      "name": "new_users",
+      "options": {
+        "uri": "/api/data/ryijcrrbx7yf"
+      }
+    },
+    "ds_CKv98REG": {
+      "type": "ds.cdn",
+      "name": "dau",
+      "options": {
+        "uri": "/api/data/8qwfir5hz2rr"
+      }
+    },
+    "ds_nEZujQxt": {
+      "type": "ds.cdn",
+      "name": "most_recent_txns",
+      "options": {
+        "uri": "/api/data/77s1nenzxuln"
+      }
+    },
+    "ds_s3hLdIGI_ds_CKv98REG": {
+      "type": "ds.cdn",
+      "name": "Recoveries",
+      "options": {
+        "uri": "/api/data/zp616kzbkous"
+      }
+    },
+    "ds_eTJn89ME_ds_Qmxzkv6P": {
+      "type": "ds.cdn",
+      "name": "eth_mainnet",
+      "options": {
+        "uri": "/api/data/u3gsls6khrqo"
+      }
+    },
+    "ds_i3yMFVSW": {
+      "type": "ds.cdn",
+      "name": "event_calls_timechart",
+      "options": {
+        "uri": "/api/data/k8uejip8kjsg"
+      }
+    },
+    "ds_qqTNGpRH_ds_eTJn89ME_ds_Qmxzkv6P": {
+      "type": "ds.cdn",
+      "name": "ost_costs",
+      "options": {
+        "uri": "/api/data/36yzq5zhoxk2"
+      }
+    },
+    "ds_FsblCzar_ds_qqTNGpRH_ds_eTJn89ME_ds_Qmxzkv6P": {
+      "type": "ds.cdn",
+      "name": "stripe_costs",
+      "options": {
+        "uri": "/api/data/gaqgzpprpdme"
+      }
+    },
+    "ds_l2tJ0Gv0": {
+      "type": "ds.cdn",
+      "name": "percent_savings",
+      "options": {
+        "uri": "/api/data/4yi5iodsvgf6"
+      }
+    }
+  }
+}
