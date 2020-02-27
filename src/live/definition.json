@@ -137,8 +137,8 @@
                 "item": "viz_zzPrFIzl",
                 "type": "block",
                 "position": {
-                    "x": 310,
-                    "y": 60,
+                    "x": 80,
+                    "y": 70,
                     "w": 300,
                     "h": 50
                 }
@@ -147,8 +147,8 @@
                 "item": "viz_njLZYmsx",
                 "type": "block",
                 "position": {
-                    "x": 120,
-                    "y": 100,
+                    "x": 80,
+                    "y": 120,
                     "w": 440,
                     "h": 50
                 }
@@ -167,10 +167,10 @@
                 "item": "viz_dvREpcPm",
                 "type": "block",
                 "position": {
-                    "x": 150,
-                    "y": 10,
-                    "w": 150,
-                    "h": 150
+                    "x": 120,
+                    "y": -40,
+                    "w": 190,
+                    "h": 190
                 }
             },
             {
@@ -377,14 +377,15 @@
         "viz_zzPrFIzl": {
             "type": "viz.text",
             "options": {
-                "content": "Meet your Peeps!"
+                "content": "Meet your Peeps!",
+                "fontSize": 34
             }
         },
         "viz_njLZYmsx": {
             "type": "viz.text",
             "options": {
-                "content": "Meet the people shaping the crypto movement",
-                "fontSize": 20,
+                "content": "Real People. Real Connections.",
+                "fontSize": 19,
                 "color": "#708794"
             }
         },

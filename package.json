@@ -59,8 +59,7 @@
             "user": "admin"
         },
         "dashboards": [
-            "ost_pepo_analytics",
-            "ost_pepo_live"
+            "analytics"
         ]
     }
 }

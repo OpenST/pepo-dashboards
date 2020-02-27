@@ -129,33 +129,13 @@
         }
       },
       {
-        "item": "viz_zZyjzGtS",
-        "type": "block",
-        "position": {
-          "x": 1060,
-          "y": 260,
-          "w": 300,
-          "h": 230
-        }
-      },
-      {
         "item": "viz_OeTyZh8h",
         "type": "block",
         "position": {
-          "x": 850,
-          "y": 20,
-          "w": 210,
-          "h": 180
-        }
-      },
-      {
-        "item": "viz_am1ulwD8",
-        "type": "block",
-        "position": {
-          "x": 10,
-          "y": 10,
-          "w": 150,
-          "h": 130
+          "x": 30,
+          "y": 60,
+          "w": 120,
+          "h": 70
         }
       },
       {
@@ -175,6 +155,16 @@
           "x": 1760,
           "y": 20,
           "w": 110,
+          "h": 40
+        }
+      },
+      {
+        "item": "viz_qKjasqy3",
+        "type": "block",
+        "position": {
+          "x": 20,
+          "y": 20,
+          "w": 150,
           "h": 40
         }
       },
@@ -262,7 +252,7 @@
         "item": "viz_EdiMCCHX",
         "type": "block",
         "position": {
-          "x": 320,
+          "x": 290,
           "y": 270,
           "w": 300,
           "h": 50
@@ -292,7 +282,7 @@
         "item": "viz_Ij386m6a",
         "type": "block",
         "position": {
-          "x": 140,
+          "x": 150,
           "y": 460,
           "w": 310,
           "h": 50
@@ -332,9 +322,9 @@
         "item": "viz_3XMc1SHN",
         "type": "block",
         "position": {
-          "x": 580,
-          "y": 290,
-          "w": 190,
+          "x": 850,
+          "y": 10,
+          "w": 210,
           "h": 170
         }
       },
@@ -491,7 +481,7 @@
     ]
   },
   "description": "",
-  "title": "OST Pepo Analytics during ETHDenver",
+  "title": "OST Pepo Analytics",
   "visualizations": {
     "viz_QoyRlzLY": {
       "type": "viz.img",
@@ -507,13 +497,6 @@
         "src": "/assets/f4caeb9624572472b09d_5e4858da28221b42ff13b443.png"
       }
     },
-    "viz_am1ulwD8": {
-      "type": "viz.singlevalueicon",
-      "options": {
-        "showValue": false,
-        "icon": "/assets/8abd944fee1917b8f845_5e4570a428221b741674a5ff.svg"
-      }
-    },
     "viz_5dSIKXjO": {
       "type": "viz.singlevalueicon",
       "options": {
@@ -525,6 +508,12 @@
       "type": "viz.text",
       "options": {
         "content": "Built by:"
+      }
+    },
+    "viz_qKjasqy3": {
+      "type": "viz.text",
+      "options": {
+        "content": "Powered by:"
       }
     },
     "viz_hC2CILfq": {
@@ -634,7 +623,7 @@
     "viz_Ij386m6a": {
       "type": "viz.text",
       "options": {
-        "content": "Total Pepo Coin Transferred (7d)",
+        "content": "Pepo Coins Transferred (7d)",
         "fontSize": 22
       }
     },
@@ -659,13 +648,6 @@
         "content": "Pepo New User Signups",
         "color": "#0877a6",
         "fontSize": 26
-      }
-    },
-    "viz_zZyjzGtS": {
-      "type": "viz.img",
-      "options": {
-        "preserveAspectRatio": true,
-        "src": "/assets/cf62c76579159752398f_5e48b27a28221b35a07fd014.gif"
       }
     },
     "viz_immRD2rJ": {
