@@ -56,7 +56,7 @@
         "projectName": "OST Dashboards",
         "splunkd": {
             "url": "https://api-slk5gjwsdf453we.ost.com",
-            "user": "admin"
+            "user": "app_user"
         },
         "dashboards": [
             "analytics"
