@@ -324,7 +324,7 @@
         "viz_p8PJYFuW": {
             "type": "viz.text",
             "options": {
-                "content": "Top Pepo Coin Senders (since Thursday)",
+                "content": "Top Pepo Coin Senders (since Friday)",
                 "fontSize": 18
             }
         },
@@ -342,7 +342,7 @@
         "viz_EyaaA85H": {
             "type": "viz.text",
             "options": {
-                "content": "Top Pepo Coin Receivers (since Thursday)",
+                "content": "Top Pepo Coin Receivers (since Friday)",
                 "fontSize": 18
             }
         },
