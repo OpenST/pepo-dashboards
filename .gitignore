@@ -23,3 +23,5 @@ yarn-error.log*
 .now
 
 .idea
+
+yarn.lock
